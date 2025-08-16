@@ -1,5 +1,3 @@
-
-Content is user-generated and unverified.
 import streamlit as st
 import pandas as pd
 import numpy as np
